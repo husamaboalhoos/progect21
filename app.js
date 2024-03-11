@@ -1,1 +1,1 @@
-alert("Error");
+alert("Errosr");
